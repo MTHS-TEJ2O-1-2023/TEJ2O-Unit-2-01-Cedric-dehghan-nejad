@@ -7,4 +7,3 @@
  * This program ... prints 'hello world' 
 
 basic.showString('Hello, World!')/
-*/
