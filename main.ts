@@ -6,5 +6,4 @@
  
  * This program ... prints 'hello world' 
 
-basic.showString('Hello, World!')
-*/
+basic.showString('Hello, World!')/
