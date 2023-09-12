@@ -1,10 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
- 
- * Created by: Cedric
- 
+ *
+ * Created by: Mr. Coxall
  * Created on: Sep 2020
- 
- * This program ... prints 'hello world' 
+ * This program ...
+*/
 
 basic.showString('Hello, World!')
-*/
