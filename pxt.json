@@ -11,11 +11,10 @@
         "README.md"
     ],
     "targetVersions": {
-        "target": "1.12.39",
-        "targetId": "arcade"
+        "target": "6.0.18",
+        "targetId": "microbit"
     },
     "supportedTargets": [
-        "arcade",
         "microbit"
     ],
     "preferredEditor": "tsprj",
